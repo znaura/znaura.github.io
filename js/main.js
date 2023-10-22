@@ -47,7 +47,8 @@ const skillsContent = document.getElementsByClassName('skills__content'),
       skillsHeader.forEach((el) => {
         el.addEventListener('click', toggleSkills)
       })
-      
+
+
 /*==================== SERVICES MODAL ====================*/
 const modalViews = document.querySelectorAll('.services__modal'),
       modalBtns = document.querySelectorAll('.services__button'),

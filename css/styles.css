@@ -555,9 +555,7 @@ img {
     margin-bottom: var(--mb-2-5);
 }
 
-.skills__open .skills__arrow{
-    transform: rotate(-180deg);
-}
+
 
 /*==================== SERVICES ====================*/
 .services__container{
