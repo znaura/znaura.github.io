@@ -88,8 +88,8 @@ let swiperPortfolio = new Swiper('.portfolio__container', {
       clickable: true,
     },
   
-    /* mousewheel: true,
-    keyboard: true, */
+    mousewheel: true,
+    keyboard: true,
   });  
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
